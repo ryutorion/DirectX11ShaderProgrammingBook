@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-3-FirstWindowsProgramming
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4-FirstDirectXProgramming", "2-4-FirstDirectXProgramming\2-4-FirstDirectXProgramming.vcxproj", "{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-5-DrawPolygon", "2-5-DrawPolygon\2-5-DrawPolygon.vcxproj", "{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Debug|x64.Build.0 = Debug|x64
 		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Release|x64.ActiveCfg = Release|x64
 		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Release|x64.Build.0 = Release|x64
+		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Debug|x64.ActiveCfg = Debug|x64
+		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Debug|x64.Build.0 = Debug|x64
+		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Release|x64.ActiveCfg = Release|x64
+		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
