@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30803.129
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-3-FirstWindowsProgramming", "2-3-FirstWindowsProgramming\2-3-FirstWindowsProgramming.vcxproj", "{0E0606BF-05F5-43F9-8724-E2E42806C2C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4-FirstDirectXProgramming", "2-4-FirstDirectXProgramming\2-4-FirstDirectXProgramming.vcxproj", "{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{0E0606BF-05F5-43F9-8724-E2E42806C2C8}.Debug|x64.Build.0 = Debug|x64
 		{0E0606BF-05F5-43F9-8724-E2E42806C2C8}.Release|x64.ActiveCfg = Release|x64
 		{0E0606BF-05F5-43F9-8724-E2E42806C2C8}.Release|x64.Build.0 = Release|x64
+		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Debug|x64.ActiveCfg = Debug|x64
+		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Debug|x64.Build.0 = Debug|x64
+		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Release|x64.ActiveCfg = Release|x64
+		{67EA0809-DA4E-4A7C-BDD5-CA13ED07C928}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
