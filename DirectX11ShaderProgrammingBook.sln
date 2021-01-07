@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4-FirstDirectXProgramming
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-5-DrawPolygon", "2-5-DrawPolygon\2-5-DrawPolygon.vcxproj", "{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-7-DrawTexture", "2-7-DrawTexture\2-7-DrawTexture.vcxproj", "{F6B921CD-FE8C-4CE3-A73B-89387E2EC1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,10 @@ Global
 		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Debug|x64.Build.0 = Debug|x64
 		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Release|x64.ActiveCfg = Release|x64
 		{8A0C5CAD-A7FD-4F04-A8DA-162B5D8EFD46}.Release|x64.Build.0 = Release|x64
+		{F6B921CD-FE8C-4CE3-A73B-89387E2EC1CB}.Debug|x64.ActiveCfg = Debug|x64
+		{F6B921CD-FE8C-4CE3-A73B-89387E2EC1CB}.Debug|x64.Build.0 = Debug|x64
+		{F6B921CD-FE8C-4CE3-A73B-89387E2EC1CB}.Release|x64.ActiveCfg = Release|x64
+		{F6B921CD-FE8C-4CE3-A73B-89387E2EC1CB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
