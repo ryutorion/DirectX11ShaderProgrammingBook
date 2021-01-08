@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-7-DrawTexture", "2-7-Draw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-8-AlphaBlending", "2-8-AlphaBlending\2-8-AlphaBlending.vcxproj", "{2BDEE9F0-1CFA-44B3-984E-313B1EEB366E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-5-3D", "3-5-3D\3-5-3D.vcxproj", "{E439015B-ADC5-478E-AA26-31C4C087A000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -39,6 +41,10 @@ Global
 		{2BDEE9F0-1CFA-44B3-984E-313B1EEB366E}.Debug|x64.Build.0 = Debug|x64
 		{2BDEE9F0-1CFA-44B3-984E-313B1EEB366E}.Release|x64.ActiveCfg = Release|x64
 		{2BDEE9F0-1CFA-44B3-984E-313B1EEB366E}.Release|x64.Build.0 = Release|x64
+		{E439015B-ADC5-478E-AA26-31C4C087A000}.Debug|x64.ActiveCfg = Debug|x64
+		{E439015B-ADC5-478E-AA26-31C4C087A000}.Debug|x64.Build.0 = Debug|x64
+		{E439015B-ADC5-478E-AA26-31C4C087A000}.Release|x64.ActiveCfg = Release|x64
+		{E439015B-ADC5-478E-AA26-31C4C087A000}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
